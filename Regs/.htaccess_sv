@@ -1,0 +1,6 @@
+
+
+Redirect /Regs/boating.html http://www.boat-ed.com/tennessee/handbook/pdf/tn_handbook_entire.pdf
+Redirect /Regs/fishing.html http://www.eregulations.com/tennessee/fishing/pdf
+Redirect /Regs/hunting.html http://www.eregulations.com/tennessee/hunting/pdf
+Redirect /Regs/waterfowl.html http://www.eregulations.com/tennessee/hunting/waterfowl/pdf  
